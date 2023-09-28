@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/holoctober-rng/static/css/main.2bfc35be.css",
+    "main.js": "/holoctober-rng/static/js/main.097ffffd.js",
+    "static/js/787.4ddfba0d.chunk.js": "/holoctober-rng/static/js/787.4ddfba0d.chunk.js",
+    "index.html": "/holoctober-rng/index.html",
+    "main.2bfc35be.css.map": "/holoctober-rng/static/css/main.2bfc35be.css.map",
+    "main.097ffffd.js.map": "/holoctober-rng/static/js/main.097ffffd.js.map",
+    "787.4ddfba0d.chunk.js.map": "/holoctober-rng/static/js/787.4ddfba0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bfc35be.css",
+    "static/js/main.097ffffd.js"
+  ]
+}
