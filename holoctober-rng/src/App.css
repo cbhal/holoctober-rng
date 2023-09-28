@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+  background-color: #6bc0e7;
+  color: #000000;
+}
+
+button {
+  margin: 10px;
+}
+
+p {
+  margin: 0;
+}
+
+label {
+  margin: 2px;
+}
